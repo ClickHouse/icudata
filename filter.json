@@ -1,0 +1,14 @@
+{
+  "featureFilters": {
+    "curr_tree": "exclude",
+    "curr_supplemental": "exclude",
+    "rbnf_tree": "exclude",
+    "region_tree": "exclude",
+    "unit_tree": "exclude",
+    "zone_tree": "exclude",
+    "zone_supplemental": "exclude",
+    "translit": "exclude",
+    "lang_tree": {"filterType": "locale", "includelist": ["en"]},
+    "locales_tree": {"filterType": "locale", "includelist": ["en"]}
+  }
+}
